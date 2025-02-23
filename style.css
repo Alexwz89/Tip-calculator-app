@@ -174,14 +174,12 @@ body main .calc-container .output-part .reset .reset-btn {
   font-style: normal;
   font-size: 20px;
   text-transform: uppercase;
+  color: hsl(183, 100%, 15%);
+  background-color: hsl(186, 14%, 43%);
 }
 body main .calc-container .output-part .reset button:hover {
   background-color: #9fe8df;
   color: hsl(183, 100%, 15%);
-}
-body main .calc-container .output-part .reset .btn-grey {
-  color: hsl(183, 100%, 15%);
-  background-color: hsl(186, 14%, 43%);
 }
 body main .calc-container .output-part .reset .btn-active {
   color: hsl(183, 100%, 15%);
